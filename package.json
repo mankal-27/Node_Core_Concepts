@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/mankal-27/LearnWithMe/issues"
   },
-  "homepage": "https://github.com/mankal-27/LearnWithMe#readme",
-  "dependencies": {
-    "lodash": "^4.17.21"
-  }
+  "homepage": "https://github.com/mankal-27/LearnWithMe#readme"
 }
