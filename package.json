@@ -10,7 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/mankal-27/NodeJsDesign.git"
   },
-  "type": "module",
   "keywords": [],
   "author": "",
   "license": "ISC",
