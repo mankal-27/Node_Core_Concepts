@@ -40,6 +40,13 @@ app.get('/', (req, res) => {
     res.render('message', { title: 'Home Page' });
 });
 
+app.get('/form', (req, res) => {
+    res.render(('form'), {
+        title: 'Parse HTTP GET data',
+        data: req.query
+    })
+})
+
 // //anoter route
 // app.get('/about', (req, res) => {
 //     res.render('message', { title: 'About Page' });
