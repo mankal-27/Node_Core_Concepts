@@ -18,6 +18,7 @@ I'm currently studying and upgrading my skills by reading **Node.js Design Patte
 ## Repository Layout
 
 - `0_yr_25/`: code and notes from 2025 (Buffers, async, Express, and more)
+- [`ch2_module_sys/`](ch2_module_sys): Chapter 2, the module system (revealing module, CommonJS vs ESM, live bindings, circular dependencies, dynamic `import()`, TypeScript notes)
 
 ## Goal
 
